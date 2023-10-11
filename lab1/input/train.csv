@@ -1,0 +1,13 @@
+wind,humidity,rays,temp,weather
+east,dry,high,hot,sunny
+south,wet,high,hot,sunny
+north,mid,high,hot,sunny
+west,mid,high,mild,sunny
+south,wet,normal,mild,cloudy
+west,dry,high,mild,cloudy
+west,wet,high,hot,cloudy
+east,mid,normal,mild,cloudy
+south,mid,normal,mild,rainy
+north,wet,normal,mild,rainy
+east,mid,normal,mild,rainy
+west,wet,normal,mild,rainy
